@@ -1,0 +1,10 @@
+{"id": "q1", "query": "How long can I restore a deleted object?", "relevant": ["C1"], "answerable": true}
+{"id": "q2", "query": "How do I rotate access keys without downtime?", "relevant": ["C7"], "answerable": true}
+{"id": "q3", "query": "What is the minimum storage duration for the Cold class?", "relevant": ["C4"], "answerable": true}
+{"id": "q4", "query": "How large can a single object be, and when do I need multipart upload?", "relevant": ["C11"], "answerable": true}
+{"id": "q5", "query": "How quickly does cross-region replication copy new objects?", "relevant": ["C10"], "answerable": true}
+{"id": "q6", "query": "Can I move an existing bucket to a different region?", "relevant": ["C15"], "answerable": true}
+{"id": "q7", "query": "How do I stop incomplete multipart uploads from costing money?", "relevant": ["C12"], "answerable": true}
+{"id": "q8", "query": "What happens when I delete an object in a versioned bucket?", "relevant": ["C9"], "answerable": true}
+{"id": "q9", "query": "Does Harbor support object locking for compliance (WORM)?", "relevant": [], "answerable": false}
+{"id": "q10", "query": "What is the SLA uptime percentage for the Standard class?", "relevant": [], "answerable": false}
